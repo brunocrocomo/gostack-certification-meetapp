@@ -33,11 +33,15 @@ As prerequisite you need to host the `Postgres` and `Redis` databases on your ma
 
 #### Postgres
 
-`docker run --name meetapp-database -e POSTGRES_PASSWORD=docker -p 5433:5432 -d postgres`
+```
+docker run --name meetapp-database -e POSTGRES_PASSWORD=docker -p 5433:5432 -d postgres
+```
 
 #### Redis
 
-`docker run --name meetapp-redis -p 6379:6379 -d -t redis:alpine`
+```
+docker run --name meetapp-redis -p 6379:6379 -d -t redis:alpine
+```
 
 Once the containers are up, you just need to:
 
