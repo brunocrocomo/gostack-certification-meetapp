@@ -8,20 +8,20 @@ This system is composed by three applications: back end written in [Node.js](htt
 
 -   [Back end](#Back-end) - according to [Challenge 02](https://github.com/Rocketseat/bootcamp-gostack-desafio-02/blob/master/README.md#desafio-02-iniciando-aplicação) and [Challenge 03](https://github.com/Rocketseat/bootcamp-gostack-desafio-03/blob/master/README.md#desafio-03-continuando-aplicação)
 
-    -   [How to run the back end?](###How-to-run-the-back-end-?)
-    -   [Back end production features](###Back-end-production-features)
-    -   [Back end development features](###Back-end-development-features)
+    -   [How to run the back end?](#How-to-run-the-back-end)
+    -   [Back end production features](#Back-end-production-features)
+    -   [Back end development features](#Back-end-development-features)
 
 -   [Front end](#Front-end) - according to [Challenge 09](https://github.com/Rocketseat/bootcamp-gostack-desafio-09#desafio-09-front-end-do-meetapp)
 
-    -   [How to run the front end?](###How-to-run-the-front-end-?)
-    -   [Front end production features](###Front-end-production-features)
-    -   [Front end development features](###Front-end-development-features)
+    -   [How to run the front end?](#How-to-run-the-front-end)
+    -   [Front end production features](#Front-end-production-features)
+    -   [Front end development features](#Front-end-development-features)
 
 -   [Mobile Application](#Mobile-Application) - according to [Challenge 10](https://github.com/Rocketseat/bootcamp-gostack-desafio-10#desafio-10-mobile-do-meetapp)
-    -   [How to run the mobile application?](###How-to-run-the-mobile-application?)
-    -   [Mobile application production features](###Mobile-application-production-features)
-    -   [Mobile application development features](###Mobile-application-development-features)
+    -   [How to run the mobile application?](#How-to-run-the-mobile-application)
+    -   [Mobile application production features](#Mobile-application-production-features)
+    -   [Mobile application development features](#Mobile-application-development-features)
 
 ## Back end
 
@@ -29,7 +29,7 @@ API written in [Node.js](https://nodejs.org/en/). The official repository can be
 
 ### How to run the back end?
 
-As prerequisite you need to host the `Postgres` and `Redis` databases on your machine. It's recommended to use docker containers once they're really easy to install and run, as shown below:
+As prerequisite you need to host the `Postgres` and `Redis` databases on your machine. It's recommended to use [Docker](https://www.docker.com/) containers once they're really easy to install and run, as shown below:
 
 #### Postgres
 
