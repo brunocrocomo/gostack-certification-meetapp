@@ -4,7 +4,7 @@ This repository is the submition of the final challenge to GoStack Certification
 
 This project is a complete system to schedule developers meetings called Meetapp (acronym to Meetup + App).
 
-This system is composed by three applications: back end written in [Node.js](https://nodejs.org/en/), front end written in [ReactJS](https://reactjs.org/) and mobile application (**Android** only, for now) developed in [React Native](https://facebook.github.io/react-native/). In this repository you can found the release `v1.0.0` of each application.
+This system is composed by three applications: back end written in [Node.js](https://nodejs.org/en/), front end written in [ReactJS](https://reactjs.org/) and mobile application (**Android** only, for now) developed in [React Native](https://facebook.github.io/react-native/). In this repository you can find the release `v1.0.0` of each application.
 
 -   [Back end](#Back-end) - according to [Challenge 02](https://github.com/Rocketseat/bootcamp-gostack-desafio-02/blob/master/README.md#desafio-02-iniciando-aplicação) and [Challenge 03](https://github.com/Rocketseat/bootcamp-gostack-desafio-03/blob/master/README.md#desafio-03-continuando-aplicação)
 
